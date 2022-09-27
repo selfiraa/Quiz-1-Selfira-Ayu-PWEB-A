@@ -1,0 +1,53 @@
+body {
+    background: #FF9494;
+    align-content: center;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+   flex: 75%;
+}
+
+.body {
+    background-color: #FFF5E3;
+    background-position: center;
+    height: max-content;
+    alignment: center;
+    margin: auto;
+    width: max-content;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.body h1 {
+    color: black;
+    font-size: medium;
+    text-align: center;
+}
+
+.body h3 {
+    color: black;
+    text-align: left;
+}
+
+.body td {
+    color: black;
+    text-align: left;
+}
+
+.bttn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outro {
+    border: #FF9494;
+}
